@@ -1,0 +1,17 @@
+[
+  {
+    "id": 19,
+    "nome": "Elleylson",
+    "sobrenome": "santtos",
+    "email": "maxta.gamer@gmail.com",
+    "idade": 23,
+    "peso": 75,
+    "altura": 1.78,
+    "Fotos": [
+      {
+        "url": "http://34.95.172.65/images/1682884373527_1302.jpg",
+        "filename": "1682884373527_1302.jpg"
+      }
+    ]
+  }
+]
